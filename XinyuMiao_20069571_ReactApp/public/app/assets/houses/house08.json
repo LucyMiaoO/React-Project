@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a small house with three bedrooms and one bathroom. There are two floors and a sitting room downstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house08", 
+    "deposit": 650, 
+    "address": "51 Trimleston Park, Blackrock, Dublin",
+    "images": [
+        "/app/img/houses/house08.jpg", 
+        "/app/img/houses/06.jpg", 
+        "/app/img/houses/05.jpg"
+    ], 
+    "city": "Dublin"
+}

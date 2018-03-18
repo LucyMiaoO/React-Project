@@ -1,0 +1,11 @@
+{ 
+    "description": "This is a large house with seven bedrooms and three bathrooms. There are two floors and a balcony upstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house10", 
+    "deposit": 400,
+    "images": [
+        "/app/img/houses/house10.jpg", 
+        "/app/img/houses/02.jpg", 
+        "/app/img/houses/03.jpg"
+    ], 
+    "city": "Corck"
+}

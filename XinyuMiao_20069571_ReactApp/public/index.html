@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <link href="./app/assets/css/app.css" rel="stylesheet">
+     <link href="./app/assets/styles/bootstrap.min.css" rel="stylesheet">
+     <style> .glyphicon-thumbs-up { cursor:pointer } </style>
+  </head>
+  <body>
+      <div id="wrapper"></div>
+        <script  src="./app/assets/css/jquery.js" > </script>
+        <script  src="./app/assets/styles/bootstrap.min.js" > </script>
+        <script  src="./app/bundle.js" > </script>
+        <script>
+          $("#menu-toggle").click(function(e) {
+          e.preventDefault();
+          $("#wrapper").toggleClass("toggled");
+        });
+        </script>
+  </body>
+</html>

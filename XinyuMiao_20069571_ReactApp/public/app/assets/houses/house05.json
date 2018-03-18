@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a large house with seven bedrooms and three bathrooms. There are two floors and a balcony upstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house05", 
+    "deposit":160,
+    "address": "8 Ossory Drive, Lismore Lawn",
+    "images": [
+        "/app/img/houses/house05.jpg", 
+        "/app/img/houses/02.jpg", 
+        "/app/img/houses/01.jpg"
+    ], 
+    "city": "Waterford"
+}

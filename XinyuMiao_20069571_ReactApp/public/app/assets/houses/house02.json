@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a large house with seven bedrooms and three bathrooms. There are two floors and a balcony upstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house02",
+    "deposit":220,
+    "address": "Lismore Park 19, Waterford", 
+    "images": [
+        "/app/img/houses/house02.jpg", 
+        "/app/img/houses/03.jpg", 
+        "/app/img/houses/04.jpg"
+    ], 
+    "city": "Waterford"
+}

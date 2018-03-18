@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a large house with seven bedrooms and three bathrooms. There are two floors and a balcony upstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house07", 
+    "deposit": 400,
+    "address": "1 Dock Road, Waterford",
+    "images": [
+        "/app/img/houses/house07.jpg", 
+        "/app/img/houses/09.jpg", 
+        "/app/img/houses/08.jpg"
+    ], 
+    "city": "Waterford"
+}

@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a small house with three bedrooms and one bathroom. There are two floors and a sitting room downstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house03", 
+    "deposit": 230,
+    "address": "2 Dock Road, Waterford",
+    "images": [
+        "/app/img/houses/house03.jpg", 
+        "/app/img/houses/05.jpg", 
+        "/app/img/houses/06.jpg"
+    ], 
+    "city": "Waterford"
+}

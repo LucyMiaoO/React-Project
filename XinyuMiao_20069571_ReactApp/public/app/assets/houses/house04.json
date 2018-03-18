@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a small house with three bedrooms and one bathroom. There are two floors and a sitting room downstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house04", 
+    "deposit": 250,
+    "address": "16 Fitzgerald Road, Cork Road, Waterford",
+    "images": [
+        "/app/img/houses/house04.jpg", 
+        "/app/img/houses/07.jpg", 
+        "/app/img/houses/08.jpg"
+    ], 
+    "city": "Waterford"
+}

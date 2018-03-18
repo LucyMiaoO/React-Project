@@ -1,0 +1,12 @@
+{ 
+    "description": "This is a large house with seven bedrooms and three bathrooms. There are two floors and a balcony upstairs. The environment is very nice and the neighbours are friendly.",  
+    "id": "house06", 
+    "deposit": 350,
+    "address": "227-285 Larchville Estate, Waterford",
+    "images": [
+        "/app/img/houses/house06.jpg", 
+        "/app/img/houses/04.jpg", 
+        "/app/img/houses/03.jpg"
+    ], 
+    "city": "Waterford"
+}
